@@ -1,0 +1,12 @@
+{
+    "name": "osja/core",
+    "description": "Core setup",
+    "authors": [
+        {
+            "name": "Osja",
+            "email": "osja.asia@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
