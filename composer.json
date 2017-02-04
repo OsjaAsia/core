@@ -1,6 +1,7 @@
 {
     "name": "osja/core",
     "description": "Core setup",
+    "license": "MIT",
     "authors": [
         {
             "name": "Osja",
