@@ -6,5 +6,6 @@
             "name": "Osja",
             "email": "osja.asia@gmail.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev"
 }
