@@ -7,6 +7,5 @@
             "email": "osja.asia@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "minimum-stability": "master"
 }
